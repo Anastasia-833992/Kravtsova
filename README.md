@@ -24,7 +24,7 @@
 ## Как запустить 
 
 ```bash 
-githttps://github.com/artemggff/Bocharov
+githttps://github.com/Kravtsova
 cd Kravtsova
 python main.py 
 
